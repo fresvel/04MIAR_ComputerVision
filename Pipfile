@@ -8,6 +8,8 @@ jupyter = "*"
 matplotlib = "*"
 scikit-image = "*"
 opencv-python = "*"
+pandas = "*"
+seaborn = "*"
 
 [dev-packages]
 
